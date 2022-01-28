@@ -27,6 +27,4 @@
 
 // User Interface Logic --------
 
-$(document).ready(function() {
-
-});
+$(document).ready(function() 
